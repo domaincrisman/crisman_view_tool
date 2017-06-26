@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ```ruby
 DevcampViewTool::Renderer.copyright 'Cris Manzano', 'All rights reserved'
-``
+```
 
 ## Development
 
